@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 home.html
 <html>
 <html lang="en">
@@ -169,6 +170,7 @@ home.html
     </footer>
 </body>
 </html>
+```
 
 
 ## OUTPUT:
